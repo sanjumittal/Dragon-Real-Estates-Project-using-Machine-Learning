@@ -1,0 +1,13 @@
+Model Outputs
+
+1. Decision Tree:
+     Mean: 5.030437102767305
+     Standara denication: 1.0607661158294832
+
+2. Linear Regression:
+     Mean: 4.152411299581546
+     Standard denication: 0.7857371304271455
+
+3. Random Forest Regression:
+     Mean: 3.4019601063548706
+     Standard denication: 0.742787593005814
